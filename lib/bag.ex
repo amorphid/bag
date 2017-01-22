@@ -1,0 +1,2 @@
+defmodule Bag do
+end
