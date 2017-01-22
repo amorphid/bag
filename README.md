@@ -1,6 +1,6 @@
 # Bag
 
-A collection of structured data bags, in the form of structs.
+A collection of structured data bags, in the form of Elixir structs.
 
 ## Installation
 

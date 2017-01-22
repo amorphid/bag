@@ -1,5 +1,5 @@
-2-Clause BSD License
-====================
+2-Clause BSD
+============
 
 Copyright 2017 Michael Pope
 
